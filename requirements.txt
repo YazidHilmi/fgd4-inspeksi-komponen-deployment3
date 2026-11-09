@@ -1,0 +1,15 @@
+# Python 3.10 - 3.12 disarankan (anomalib 2.6.2 dipakai pada penelitian).
+streamlit>=1.40,<2
+anomalib==2.6.2
+torch>=2.2
+torchvision>=0.17
+faiss-cpu
+numpy
+scipy
+scikit-learn
+opencv-python-headless
+pillow
+matplotlib
+pandas
+tifffile
+tqdm

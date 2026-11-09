@@ -1,0 +1,9 @@
+kategori,model,TP,FP,FN,TN
+screw,AnomalyDINO 1-shot,43,8,76,33
+screw,AnomalyDINO 16-shot,70,7,49,34
+screw,AnomalyDINO full-shot,104,3,15,38
+screw,EfficientAD,79,9,40,32
+metal_nut,AnomalyDINO 1-shot,92,2,1,20
+metal_nut,AnomalyDINO 16-shot,93,2,0,20
+metal_nut,AnomalyDINO full-shot,93,0,0,22
+metal_nut,EfficientAD,90,3,3,19

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+.DS_Store
+
+# Salinan checkpoint Lightning di folder training; aplikasi memakai checkpoint final di atasnya.
+models/*/efficientad/training/

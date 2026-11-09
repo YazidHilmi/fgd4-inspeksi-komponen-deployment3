@@ -1,0 +1,10 @@
+kategori,model,file,ukuran_MiB
+bersama,DINOv2 backbone,/content/drive/MyDrive/FGD4_Dua_Kategori/dinov2_vits14_state_dict.pt,84.20200157165527
+screw,EfficientAD,/content/drive/MyDrive/FGD4_Dua_Kategori/screw/efficientad/efficientad_final_60epoch.ckpt,71.71222019195557
+screw,AnomalyDINO 1-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/screw/anomalydino/bank_1-shot.faiss,1.5000429153442383
+screw,AnomalyDINO 16-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/screw/anomalydino/bank_16-shot.faiss,24.00004291534424
+screw,AnomalyDINO full-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/screw/anomalydino/bank_full-shot.faiss,384.00004291534424
+metal_nut,EfficientAD,/content/drive/MyDrive/FGD4_Dua_Kategori/metal_nut/efficientad/efficientad_final_60epoch.ckpt,71.71222019195557
+metal_nut,AnomalyDINO 1-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/metal_nut/anomalydino/bank_1-shot.faiss,1.5000429153442383
+metal_nut,AnomalyDINO 16-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/metal_nut/anomalydino/bank_16-shot.faiss,24.00004291534424
+metal_nut,AnomalyDINO full-shot,/content/drive/MyDrive/FGD4_Dua_Kategori/metal_nut/anomalydino/bank_full-shot.faiss,264.00004291534424

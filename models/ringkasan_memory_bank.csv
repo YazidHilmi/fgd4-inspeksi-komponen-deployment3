@@ -1,0 +1,7 @@
+kategori,model,jumlah_referensi,jumlah_patch,dimensi_fitur
+screw,AnomalyDINO 1-shot,1,1024,384
+screw,AnomalyDINO 16-shot,16,16384,384
+screw,AnomalyDINO full-shot,256,262144,384
+metal_nut,AnomalyDINO 1-shot,1,1024,384
+metal_nut,AnomalyDINO 16-shot,16,16384,384
+metal_nut,AnomalyDINO full-shot,176,180224,384

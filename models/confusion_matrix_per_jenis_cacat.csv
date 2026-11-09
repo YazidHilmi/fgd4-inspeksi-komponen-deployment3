@@ -1,0 +1,37 @@
+kategori,jenis_cacat,model,TP,FP,FN,TN
+screw,manipulated_front,AnomalyDINO 1-shot,6,8,18,33
+screw,manipulated_front,AnomalyDINO 16-shot,6,7,18,34
+screw,manipulated_front,AnomalyDINO full-shot,16,3,8,38
+screw,manipulated_front,EfficientAD,16,9,8,32
+screw,scratch_head,AnomalyDINO 1-shot,6,8,18,33
+screw,scratch_head,AnomalyDINO 16-shot,11,7,13,34
+screw,scratch_head,AnomalyDINO full-shot,24,3,0,38
+screw,scratch_head,EfficientAD,14,9,10,32
+screw,scratch_neck,AnomalyDINO 1-shot,15,8,10,33
+screw,scratch_neck,AnomalyDINO 16-shot,23,7,2,34
+screw,scratch_neck,AnomalyDINO full-shot,24,3,1,38
+screw,scratch_neck,EfficientAD,25,9,0,32
+screw,thread_side,AnomalyDINO 1-shot,5,8,18,33
+screw,thread_side,AnomalyDINO 16-shot,13,7,10,34
+screw,thread_side,AnomalyDINO full-shot,17,3,6,38
+screw,thread_side,EfficientAD,7,9,16,32
+screw,thread_top,AnomalyDINO 1-shot,11,8,12,33
+screw,thread_top,AnomalyDINO 16-shot,17,7,6,34
+screw,thread_top,AnomalyDINO full-shot,23,3,0,38
+screw,thread_top,EfficientAD,17,9,6,32
+metal_nut,bent,AnomalyDINO 1-shot,25,2,0,20
+metal_nut,bent,AnomalyDINO 16-shot,25,2,0,20
+metal_nut,bent,AnomalyDINO full-shot,25,0,0,22
+metal_nut,bent,EfficientAD,25,3,0,19
+metal_nut,color,AnomalyDINO 1-shot,21,2,1,20
+metal_nut,color,AnomalyDINO 16-shot,22,2,0,20
+metal_nut,color,AnomalyDINO full-shot,22,0,0,22
+metal_nut,color,EfficientAD,22,3,0,19
+metal_nut,flip,AnomalyDINO 1-shot,23,2,0,20
+metal_nut,flip,AnomalyDINO 16-shot,23,2,0,20
+metal_nut,flip,AnomalyDINO full-shot,23,0,0,22
+metal_nut,flip,EfficientAD,23,3,0,19
+metal_nut,scratch,AnomalyDINO 1-shot,23,2,0,20
+metal_nut,scratch,AnomalyDINO 16-shot,23,2,0,20
+metal_nut,scratch,AnomalyDINO full-shot,23,0,0,22
+metal_nut,scratch,EfficientAD,20,3,3,19
